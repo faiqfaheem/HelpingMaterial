@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Helping_Material.iml" filepath="$PROJECT_DIR$/.idea/modules/Helping_Material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.iml" filepath="$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adsmodule/Helping_Material.adsmodule.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Helping_Material.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

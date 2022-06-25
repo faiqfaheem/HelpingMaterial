@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:6.11.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c475738825e09438209ff46acd4317b8/transformed/audience-network-sdk-6.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c475738825e09438209ff46acd4317b8/transformed/audience-network-sdk-6.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c475738825e09438209ff46acd4317b8/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
